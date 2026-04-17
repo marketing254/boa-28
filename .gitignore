@@ -1,0 +1,2 @@
+# Google Apps Script — keep server-side code out of the repo
+*.gs
